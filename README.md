@@ -34,14 +34,14 @@ pip install torch==2.3.1 torchvision==0.18.1 torchaudio==2.3.1 --index-url https
 ### Supported Optimizers
 | Optimizer | Short Description | Conference | Paper |
 | :--- | :--- | :---: | :---: |
-| **SAM** | Sharpness-Aware Minimization | **`ICLR'21`** | [📄 ArXiv](https://arxiv.org/abs/2010.01412) |
-| **ASAM** | Adaptive | **`ICML'21`** | [📄 ArXiv](https://arxiv.org/abs/2102.11600) |
-| **ESAM** | Efficient | **`ICLR'22`** | [📄 ArXiv](https://arxiv.org/abs/2110.03141) |
-| **GSAM** | Surrogate Gap (*In Progress*) | **`ICLR'22`** | [📄 ArXiv](https://arxiv.org/abs/2203.08065) |
-| **FisherSAM** | Fisher Information | **`ICML'22`** | [📄 ArXiv](https://arxiv.org/abs/2206.04920) |
-| **BayesianSAM** | Bayesian Perspective | **`ICLR'23`** | [📄 ArXiv](https://arxiv.org/abs/2210.01620) |
-| **F-SAM** | Friendly | **`CVPR'24`** | [📄 ArXiv](https://arxiv.org/abs/2403.12350) |
-| **LookSAM** | Lookahead | **`ICML'24`** | [🌐 OpenReview](https://openreview.net/pdf?id=J9YKDvqr65) |
+| **SAM** | Sharpness-Aware Minimization | **`ICLR'21`** | 📄 [ArXiv](https://arxiv.org/abs/2010.01412) |
+| **ASAM** | Adaptive | **`ICML'21`** | 📄 [ArXiv](https://arxiv.org/abs/2102.11600) |
+| **ESAM** | Efficient | **`ICLR'22`** | 📄 [ArXiv](https://arxiv.org/abs/2110.03141) |
+| **GSAM** | Surrogate Gap (*In Progress*) | **`ICLR'22`** | 📄 [ArXiv](https://arxiv.org/abs/2203.08065) |
+| **FisherSAM** | Fisher Information | **`ICML'22`** | 📄 [ArXiv](https://arxiv.org/abs/2206.04920) |
+| **BayesianSAM** | Bayesian Perspective | **`ICLR'23`** | 📄 [ArXiv](https://arxiv.org/abs/2210.01620) |
+| **F-SAM** | Friendly | **`CVPR'24`** | 📄 [ArXiv](https://arxiv.org/abs/2403.12350) |
+| **LookSAM** | Lookahead | **`ICML'24`** | 🌐 [OpenReview](https://openreview.net/pdf?id=J9YKDvqr65) |
 
 
 ### Supported Architectures
